@@ -1,2 +1,1 @@
-# Automated-Learning-and-Data-Analysis
-Machine learning projects and snippets
+# Used Car Price Prediction
